@@ -208,3 +208,16 @@
     font-weight: 300;
     text-transform: uppercase;
 }
+#impressum{
+    width: 100%;
+    background-size: cover;
+    position: relative;
+    padding-top: 75px;
+}
+#datenschutz{
+    width: 100%;
+    background-size: cover;
+    position: relative;
+    padding-top: 75px;
+}
+
